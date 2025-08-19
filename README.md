@@ -10,6 +10,9 @@
     <a href="https://github.com/AndriiBanduliak">
       <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
+    <a href="https://t.me/attorneyaba_227" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
   </p>
 
   <p>
