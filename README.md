@@ -63,9 +63,8 @@
 ---
 
 ## GitHub stats
-[![Andrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndriiBanduliak&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiBanduliak&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Andrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndriiBanduliak&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiBanduliak&layout=compact&theme=tokyonight)  
 
 ---
 
