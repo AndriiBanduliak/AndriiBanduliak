@@ -67,6 +67,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiBanduliak&layout=compact&theme=tokyonight)  
 
 ---
+### 🚀 Currently learning
+- Advanced Python & Django
+- PostgreSQL
+- Basics of Machine Learning
+- German (A2 → B1)
+
 
 ## Blog / Latest posts
 <!-- BLOG-POST-LIST:START -->
