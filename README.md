@@ -51,7 +51,7 @@
 4. **GoogleCloud_Machine-Learning-Engineer-Learning-Path** — https://github.com/AndriiBanduliak/GoogleCloud_Machine-Learning-Engineer-Learning-Path  
    _(Learning path notes and hands-on labs for Google Cloud ML track)_
 
-> Tip: replace the parentheses descriptions above with 1–2 lines about what each repo contains (technologies used, notable projects or exercises).
+
 
 ---
 
