@@ -42,16 +42,20 @@
 ---
 
 ## Selected repositories (links)
-1. **Softseve_2023-2024** — https://github.com/AndriiBanduliak/Softseve_2023-2024  
-   _(Practical project collection for 2023–2024; Studding at SiftServe Academy)_
 
-2. **CS50PYTHON_2023** — https://github.com/AndriiBanduliak/CS50PYTHON_2023  
+1. **SSB_GMbH_practice** — https://github.com/AndriiBanduliak/SSB_GMbH_practice  
+   _(A collection of projects and practical tasks in Python (with elements of Shell, JavaScript, and more) developed during my internship at **SSB Security GmbH**. It includes bots, games, monitoring tools, and analytical solutions, demonstrating a broad set of skills and interests.)_
+
+2. **Softseve_2023-2024** — https://github.com/AndriiBanduliak/Softseve_2023-2024  
+   _(Practical project collection for 2023–2024; Studying at SoftServe Academy)_
+
+3. **CS50PYTHON_2023** — https://github.com/AndriiBanduliak/CS50PYTHON_2023  
    _(CS50 Python course exercises and projects)_
 
-3. **cs50SQL2023** — https://github.com/AndriiBanduliak/cs50SQL2023  
+4. **cs50SQL2023** — https://github.com/AndriiBanduliak/cs50SQL2023  
    _(SQL exercises and small demos from CS50 SQL track)_
 
-4. **GoogleCloud_Machine-Learning-Engineer-Learning-Path** — https://github.com/AndriiBanduliak/GoogleCloud_Machine-Learning-Engineer-Learning-Path  
+5. **GoogleCloud_Machine-Learning-Engineer-Learning-Path** — https://github.com/AndriiBanduliak/GoogleCloud_Machine-Learning-Engineer-Learning-Path  
    _(Learning path notes and hands-on labs for Google Cloud ML track)_
 
 
