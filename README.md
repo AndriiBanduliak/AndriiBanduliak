@@ -70,7 +70,6 @@
 - **Google Cloud ML Learning Path — Notes & Labs** — Summaries of labs and small experiments I did while following the Google Cloud machine learning learning path. 
 <!-- BLOG-POST-LIST:END -->
 
-You can automatically update the block above with your latest blog posts by adding a GitHub Action workflow (example below).
 
 ---
 
