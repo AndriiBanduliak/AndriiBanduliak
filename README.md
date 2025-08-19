@@ -28,15 +28,19 @@
 ---
 
 ## Skills & Tools
-- Python, Django, SQL (PostgreSQL), Git, Docker
-- Basic ML concepts (Google Cloud ML learning path)
-- Comfortable reading/writing in English; German A2–B1 (learning)
-
+- **Languages & Frameworks:** Python, Django, SQL
+- **Databases & Storage:** PostgreSQL, MySQL
+- **Data & ML / Analytics:** pandas, numpy, scikit-learn, matplotlib, Jupyter Notebooks
+- **Dev & Infra:** Git, GitHub, GitHub Actions, Docker
+- **Cloud & ML Ops:** Google Cloud (learning path — ML Engineer), basic ML pipelines
+- **Other tools:** Postman, VS Code, Linux
+- **Soft skills & accessibility:** Strong problem solving, attention to accessible design (I use a wheelchair and consider accessibility in projects)
+- **Languages:** English (B2+), German (A2–B1), Urkainian (native)
 ---
 
 ## Selected repositories (links)
 1. **Softseve_2023-2024** — https://github.com/AndriiBanduliak/Softseve_2023-2024  
-   _(Practical project collection for 2023–2024; add a short description here)_
+   _(Practical project collection for 2023–2024; Studding at SiftServe Academy)_
 
 2. **CS50PYTHON_2023** — https://github.com/AndriiBanduliak/CS50PYTHON_2023  
    _(CS50 Python course exercises and projects)_
@@ -60,6 +64,10 @@
 
 ## Blog / Latest posts
 <!-- BLOG-POST-LIST:START -->
+- **From Law to Code — My Transition to Python** — A short personal story about moving from a legal career to software development, the resources I used and the first steps I recommend to others. *(Draft — publish link here)*
+- **CS50 Python: My Projects and Lessons** — Notes and reflections on the CS50 Python exercises I completed, with links to sample projects and code. *(Draft — publish link here)*
+- **Practical Data Analysis with pandas & NumPy** — A walkthrough showing how I used `pandas` and `numpy` to solve a dataset problem, including code snippets and results. *(Draft — publish link here)*
+- **Google Cloud ML Learning Path — Notes & Labs** — Summaries of labs and small experiments I did while following the Google Cloud machine learning learning path. *(Draft — publish link here)*
 <!-- BLOG-POST-LIST:END -->
 
 You can automatically update the block above with your latest blog posts by adding a GitHub Action workflow (example below).
