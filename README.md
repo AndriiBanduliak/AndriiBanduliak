@@ -34,7 +34,7 @@
 - **Dev & Infra:** Git, GitHub, GitHub Actions, Docker
 - **Cloud & ML Ops:** Google Cloud (learning path — ML Engineer), basic ML pipelines
 - **Other tools:** Postman, VS Code, Linux
-- **Soft skills & accessibility:** Strong problem solving, attention to accessible design (I use a wheelchair and consider accessibility in projects)
+- **Soft skills & accessibility:** Strong problem solving, attention to accessible design 
 - **Languages:** English (B2+), German (A2–B1), Urkainian (native)
 ---
 
