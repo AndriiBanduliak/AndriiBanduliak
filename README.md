@@ -64,10 +64,10 @@
 
 ## Blog / Latest posts
 <!-- BLOG-POST-LIST:START -->
-- **From Law to Code — My Transition to Python** — A short personal story about moving from a legal career to software development, the resources I used and the first steps I recommend to others. *(Draft — publish link here)*
-- **CS50 Python: My Projects and Lessons** — Notes and reflections on the CS50 Python exercises I completed, with links to sample projects and code. *(Draft — publish link here)*
-- **Practical Data Analysis with pandas & NumPy** — A walkthrough showing how I used `pandas` and `numpy` to solve a dataset problem, including code snippets and results. *(Draft — publish link here)*
-- **Google Cloud ML Learning Path — Notes & Labs** — Summaries of labs and small experiments I did while following the Google Cloud machine learning learning path. *(Draft — publish link here)*
+- **From Law to Code — My Transition to Python** — A short personal story about moving from a legal career to software development, the resources I used and the first steps I recommend to others. 
+- **CS50 Python: My Projects and Lessons** — Notes and reflections on the CS50 Python exercises I completed, with links to sample projects and code. 
+- **Practical Data Analysis with pandas & NumPy** — A walkthrough showing how I used `pandas` and `numpy` to solve a dataset problem, including code snippets and results. 
+- **Google Cloud ML Learning Path — Notes & Labs** — Summaries of labs and small experiments I did while following the Google Cloud machine learning learning path. 
 <!-- BLOG-POST-LIST:END -->
 
 You can automatically update the block above with your latest blog posts by adding a GitHub Action workflow (example below).
