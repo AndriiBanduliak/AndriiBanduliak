@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="wave"/>
   <h1>Hi — I’m <strong>Andrii Banduliak</strong> 👋</h1>
-  <p>I am learning Python and preparing to move into a role as a Python developer. I enjoy solving problems, building small projects and sharing what I learn.</p>
+  <p>From 9 years in law to a new chapter in code. I leverage a lawyer's analytical mindset and meticulous attention to detail to solve problems with Python. Passionate about building logical, clean solutions and always open to new challenges and collaborations..</p>
 
   <p>
     <a href="https://www.linkedin.com/in/andrii-banduliak/">
