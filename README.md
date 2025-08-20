@@ -71,7 +71,7 @@
 ### 📂 Projects & Learning Journey
 
 <details>
-<summary><strong>SSB Security GmbH Internship Projects (2024)</strong></summary>
+<summary><strong>SSB Security GmbH Internship Projects </strong></summary>
 <br>
 A collection of projects in Python, Shell, and JavaScript developed during my internship. Includes bots, games, monitoring tools, and analytical solutions.
 <p>
