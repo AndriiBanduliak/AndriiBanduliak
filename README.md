@@ -3,10 +3,7 @@
   <img src="https://raw.githubusercontent.com/AndriiBanduliak/AndriiBanduliak/main/header_banner.png" alt="Andrii Banduliak - Python Developer Banner">
 </p>
 
-<div align="center">
-  <h1>Hi, I'm Andrii Banduliak 👋</h1>
-  <h3>Python Developer | QA Automation Engineer | Data Engineer</h3>
-</div>
+
 
 <p align="center">
   <em>From 9+ years in Law to a new chapter in Code. My superpower? Turning complex requirements into clean, efficient, and reliable software solutions.</em>
