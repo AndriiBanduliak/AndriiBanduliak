@@ -11,6 +11,11 @@
   <em>I thrive on challenges and I'm passionate about automation, data, and building things that work flawlessly.</em>
 </p>
 
+<!-- ACCESSIBILITY NOTE -->
+<p align="center">
+  ♿ <strong>A quick note on accessibility:</strong> I use a wheelchair for mobility, so an accessible work environment is essential for me to do my best work.
+</p>
+
 <!-- CONTACTS SECTION -->
 <p align="center">
   <a href="https://www.linkedin.com/in/andrii-banduliak/">
@@ -22,10 +27,17 @@
   <a href="https://wa.me/4916091441767">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-
+  <a href="viber://chat?number=%2B4916091441767">
+    <img src="https://img.shields.io/badge/Viber-7360F2?style=for-the-badge&logo=viber&logoColor=white" alt="Viber"/>
+  </a>
   <a href="mailto:aobanduliak@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+</p>
+
+<!-- PROFILE VIEWS COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AndriiBanduliak&style=flat-square&color=blue" alt="profile views"/>
 </p>
 
 ---
