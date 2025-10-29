@@ -171,12 +171,7 @@ SQL exercises, database schemas, and practical demos from Harvard's CS50 SQL tra
 </p>
 
 <p align="center">
-  <a href="https://github.com/AndriiBanduliak">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndriiBanduliak&theme=dracula&hide_border=true" alt="GitHub Streak" height="165"/>
-  </a>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndriiBanduliak&theme=dracula&hide_border=true&area=true" alt="GitHub Activity Graph" height="250"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AndriiBanduliak&theme=dracula&hide_border=true&area=true" alt="GitHub Activity Graph" height="250"/>
 </p>
 
 ---
