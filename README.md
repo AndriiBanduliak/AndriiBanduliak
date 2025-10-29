@@ -170,9 +170,7 @@ SQL exercises, database schemas, and practical demos from Harvard's CS50 SQL tra
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiBanduliak&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AndriiBanduliak&theme=dracula&hide_border=true&area=true" alt="GitHub Activity Graph" height="250"/>
-</p>
+
 
 ---
 
