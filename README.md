@@ -171,7 +171,7 @@ SQL exercises, database schemas, and practical demos from Harvard's CS50 SQL tra
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndriiBanduliak&theme=dracula&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=AndriiBanduliak&theme=dracula&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
