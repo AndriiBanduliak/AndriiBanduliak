@@ -163,18 +163,17 @@ SQL exercises, database schemas, and practical demos from Harvard's CS50 SQL tra
 
 ---
 
-## ## 🚀 Activity & Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <!-- 1. Обновленные общие статы (используем более надежные параметры) -->
   <img src="https://github-readme-stats.vercel.app/api?username=AndriiBanduliak&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
-  
-  <!-- 2. Топ языки (оставляем как есть) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiBanduliak&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
 </p>
 
-<!-- 3. График контрибьюции (самый "гитхабовский" виджет) -->
-<h3 align="center">My GitHub Contributions</h3>
+
+
+---
+
 <p align="center">
-  <img src="https://ghchart.rshah.dev/green/AndriiBanduliak" alt="GitHub Chart" width="100%"/>
+  <em>Thanks for visiting my profile! Feel free to reach out if you'd like to connect or collaborate.</em>
 </p>
