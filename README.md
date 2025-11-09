@@ -48,6 +48,11 @@
 
 After 9+ years practicing law, I transitioned to software development, bringing analytical thinking and attention to detail from legal practice to code. I'm driven by challenges and passionate about building robust, scalable solutions.
 
+**Highlights:**
+- Translate complex business requirements into production-ready automation and QA tooling.
+- Bridge legal and engineering mindsets to design data workflows that surface actionable insight.
+- Active member of the CyberBionic Systematics community, collaborating on Python, data, and ML initiatives.
+
 **💼 Currently focusing on:**
 - Backend development with Python
 - QA Automation & Testing
@@ -137,6 +142,13 @@ SQL exercises, database schemas, and practical demos from Harvard's CS50 SQL tra
 ➡️ [View Repository](https://github.com/AndriiBanduliak/cs50SQL2023)
 
 </details>
+
+---
+
+## 🤝 Community & Knowledge Sharing
+
+- **CyberBionic Systematics** — Contribute to study groups and knowledge-sharing sessions focused on Python automation, data engineering, and ML best practices.
+- **SoftServe IT Academy Community** — Stay engaged with alumni to exchange feedback on portfolio projects and emerging technology trends.
 
 ---
 
