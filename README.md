@@ -143,6 +143,54 @@ SQL exercises, database schemas, and practical demos from Harvard's CS50 SQL tra
 
 </details>
 
+<details>
+<summary><b>🧠 CyberBionic Systematics Python Portfolio (2025–2026)</b></summary>
+<br>
+
+Central repository tracking my CyberBionic Systematics coursework, labs, and production-style builds. Bundles automation scripts, notebooks, and full-stack applications under a consistent engineering toolkit.
+
+**Technologies:** `Python` `Django` `Django REST Framework` `PostgreSQL` `Docker`
+
+➡️ [View Repository](https://github.com/AndriiBanduliak/CBS_studding)
+
+</details>
+
+<details>
+<summary><b>🌌 CosmicFinance (CyberBionic Systematics)</b></summary>
+<br>
+
+JWT-secured personal finance platform with budgeting workflows, analytics dashboards, and Dockerized local deployments. Developed as a portfolio project within the CyberBionic Systematics program.
+
+**Technologies:** `Django` `Django REST Framework` `PostgreSQL` `Chart.js` `Docker`
+
+➡️ [View Project](https://github.com/AndriiBanduliak/CBS_studding/tree/main/projects/CosmicFinance_project)
+
+</details>
+
+<details>
+<summary><b>🗣️ AiGolos Voice Assistant (CyberBionic Systematics)</b></summary>
+<br>
+
+End-to-end voice assistant that orchestrates speech recognition, LLM reasoning, and speech synthesis via web and REST interfaces. Built on top of modular AI services during the CyberBionic Systematics track.
+
+**Technologies:** `Django` `Django REST Framework` `Ollama` `faster-whisper` `Docker`
+
+➡️ [View Project](https://github.com/AndriiBanduliak/CBS_studding/tree/main/projects/aigolos_project)
+
+</details>
+
+<details>
+<summary><b>📅 Booking CRM Suite (CyberBionic Systematics)</b></summary>
+<br>
+
+Multi-app CRM prototype supporting booking pipelines, background task orchestration, and planned real-time notifications. Demonstrates modular Django architecture and front-end integration from the CyberBionic Systematics curriculum.
+
+**Technologies:** `Django` `Django REST Framework` `React` `Celery` `Redis`
+
+➡️ [View Project](https://github.com/AndriiBanduliak/CBS_studding/tree/main/projects/booking_CRM_project)
+
+</details>
+
 ---
 
 ## 🤝 Community & Knowledge Sharing
