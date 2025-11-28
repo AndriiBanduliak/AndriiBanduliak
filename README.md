@@ -1,4 +1,3 @@
-<!-- HEADER SECTION -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/AndriiBanduliak/AndriiBanduliak/main/header_banner.png" alt="Andrii Banduliak - Python Developer" width="100%"/>
 </p>
@@ -17,7 +16,6 @@
 
 ---
 
-<!-- CONNECT WITH ME -->
 <h3 align="center">Connect with me</h3>
 
 <p align="center">
@@ -41,7 +39,6 @@
 
 ---
 
-<!-- ABOUT -->
 ## 🚀 About Me
 
 > **Career Transitioner** | **Problem Solver** | **Continuous Learner**
@@ -81,115 +78,22 @@ After 9+ years practicing law, I transitioned to software development, bringing 
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Projects & Portfolio
 
-<details>
-<summary><b>📦 SSB Security GmbH Internship Projects</b></summary>
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **[🗣️ AiGolos Voice Assistant](https://github.com/AndriiBanduliak/CBS_studding/tree/main/projects/aigolos_project)** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AI](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) | **Full-Stack Voice AI.** Orchestrates speech recognition, LLM reasoning, and synthesis via REST API. |
+| **[🌌 CosmicFinance](https://github.com/AndriiBanduliak/CBS_studding/tree/main/projects/CosmicFinance_project)** | ![Django REST](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | **FinTech Platform.** JWT-secured personal finance tool with budgeting workflows and analytics dashboards. |
+| **[📅 Booking CRM Suite](https://github.com/AndriiBanduliak/CBS_studding/tree/main/projects/booking_CRM_project)** | ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | **Complex CRM System.** Handles booking pipelines, background tasks orchestration, and real-time notifications. |
+| **[📦 SSB Security Automation](https://github.com/AndriiBanduliak/SSB_GMbH_practice)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Bots](https://img.shields.io/badge/Bots-Automated-yellow?style=flat-square) | **Commercial Internship.** Developed automation bots, monitoring tools, and analytical solutions for security operations. |
+
 <br>
 
-A collection of projects developed during my internship at SSB Security GmbH. Includes automation bots, monitoring tools, games, and analytical solutions built with Python, Shell, and JavaScript.
-
-**Technologies:** `Python` `Shell` `JavaScript` `Bots` `Analytics`
-
-➡️ [View Repository](https://github.com/AndriiBanduliak/SSB_GMbH_practice)
-
-</details>
-
-<details>
-<summary><b>🎓 SoftServe Academy Projects (2023-2024)</b></summary>
-<br>
-
-A collection of practical projects completed during my studies at SoftServe IT Academy, showcasing my learning journey and hands-on experience in Python development.
-
-**Technologies:** `Python` `Learning Journey`
-
-➡️ [View Repository](https://github.com/AndriiBanduliak/Softseve_2023-2024)
-
-</details>
-
-<details>
-<summary><b>☁️ Google Cloud ML Engineer Learning Path</b></summary>
-<br>
-
-Personal notes, code implementations, and hands-on labs from completing the Google Cloud Machine Learning Engineer learning path. Covers ML fundamentals, MLOps, and cloud-native ML solutions.
-
-**Technologies:** `Google Cloud` `Machine Learning` `MLOps` `TensorFlow`
-
-➡️ [View Repository](https://github.com/AndriiBanduliak/GoogleCloud_Machine-Learning-Engineer-Learning-Path)
-
-</details>
-
-<details>
-<summary><b>🐍 CS50P: Introduction to Python (Harvard)</b></summary>
-<br>
-
-Complete solutions and projects for Harvard's legendary CS50 Python course, demonstrating algorithmic thinking and Python best practices.
-
-**Technologies:** `Python` `Algorithms` `CS50`
-
-➡️ [View Repository](https://github.com/AndriiBanduliak/CS50PYTHON_2023)
-
-</details>
-
-<details>
-<summary><b>💾 CS50S: Introduction to SQL (Harvard)</b></summary>
-<br>
-
-SQL exercises, database schemas, and practical demos from Harvard's CS50 SQL track, showcasing database design and query optimization skills.
-
-**Technologies:** `SQL` `Database` `CS50`
-
-➡️ [View Repository](https://github.com/AndriiBanduliak/cs50SQL2023)
-
-</details>
-
-<details>
-<summary><b>🧠 CyberBionic Systematics Python Portfolio (2025–2026)</b></summary>
-<br>
-
-Central repository tracking my CyberBionic Systematics coursework, labs, and production-style builds. Bundles automation scripts, notebooks, and full-stack applications under a consistent engineering toolkit.
-
-**Technologies:** `Python` `Django` `Django REST Framework` `PostgreSQL` `Docker`
-
-➡️ [View Repository](https://github.com/AndriiBanduliak/CBS_studding)
-
-</details>
-
-<details>
-<summary><b>🌌 CosmicFinance (CyberBionic Systematics)</b></summary>
-<br>
-
-JWT-secured personal finance platform with budgeting workflows, analytics dashboards, and Dockerized local deployments. Developed as a portfolio project within the CyberBionic Systematics program.
-
-**Technologies:** `Django` `Django REST Framework` `PostgreSQL` `Chart.js` `Docker`
-
-➡️ [View Project](https://github.com/AndriiBanduliak/CBS_studding/tree/main/projects/CosmicFinance_project)
-
-</details>
-
-<details>
-<summary><b>🗣️ AiGolos Voice Assistant (CyberBionic Systematics)</b></summary>
-<br>
-
-End-to-end voice assistant that orchestrates speech recognition, LLM reasoning, and speech synthesis via web and REST interfaces. Built on top of modular AI services during the CyberBionic Systematics track.
-
-**Technologies:** `Django` `Django REST Framework` `Ollama` `faster-whisper` `Docker`
-
-➡️ [View Project](https://github.com/AndriiBanduliak/CBS_studding/tree/main/projects/aigolos_project)
-
-</details>
-
-<details>
-<summary><b>📅 Booking CRM Suite (CyberBionic Systematics)</b></summary>
-<br>
-
-Multi-app CRM prototype supporting booking pipelines, background task orchestration, and planned real-time notifications. Demonstrates modular Django architecture and front-end integration from the CyberBionic Systematics curriculum.
-
-**Technologies:** `Django` `Django REST Framework` `React` `Celery` `Redis`
-
-➡️ [View Project](https://github.com/AndriiBanduliak/CBS_studding/tree/main/projects/booking_CRM_project)
-
-</details>
+### 📚 Academic & Learning Path
+* **[☁️ Google Cloud ML Engineer Path](https://github.com/AndriiBanduliak/GoogleCloud_Machine-Learning-Engineer-Learning-Path)** — *Notes & Labs: MLOps, TensorFlow, Cloud-native solutions.*
+* **[🐍 CS50P (Harvard)](https://github.com/AndriiBanduliak/CS50PYTHON_2023)** — *Advanced Python & Algorithms implementation.*
+* **[💾 CS50S (Harvard)](https://github.com/AndriiBanduliak/cs50SQL2023)** — *SQL Database Design & Optimization.*
+* **[🎓 SoftServe Academy](https://github.com/AndriiBanduliak/Softseve_2023-2024)** — *Python Development Fundamentals.*
 
 ---
 
@@ -229,8 +133,6 @@ Multi-app CRM prototype supporting booking pipelines, background task orchestrat
   <img src="https://github-readme-stats.vercel.app/api?username=AndriiBanduliak&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiBanduliak&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
 </p>
-
-
 
 ---
 
